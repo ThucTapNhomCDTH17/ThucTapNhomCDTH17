@@ -1,0 +1,37 @@
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\bin\Debug\QLThuHocPhiSVnhom11.exe.config
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\bin\Debug\QLThuHocPhiSVnhom11.exe
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\bin\Debug\QLThuHocPhiSVnhom11.pdb
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.csprojResolveAssemblyReference.cache
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.Form1.resources
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.Properties.Resources.resources
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.csproj.GenerateResource.Cache
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.exe
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.pdb
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmKhoa.resources
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmLop.resources
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmLopHP_MH.resources
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.LopHocphan.resources
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmMucthu.resources
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmMonHoc.resources
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmSinhVien.resources
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmDoituong.resources
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmBienLai.resources
+D:\SQL SERVER\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmCTBL.resources
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\bin\Debug\QLThuHocPhiSVnhom11.exe.config
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.exe
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.pdb
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\bin\Debug\QLThuHocPhiSVnhom11.exe
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\bin\Debug\QLThuHocPhiSVnhom11.pdb
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.csprojResolveAssemblyReference.cache
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.Form1.resources
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmLop.resources
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmMucthu.resources
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmMonHoc.resources
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmKhoa.resources
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmSinhVien.resources
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmDoituong.resources
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmBienLai.resources
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.frmCTBL.resources
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.Properties.Resources.resources
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.csproj.GenerateResource.Cache
+D:\SQL SERVER\Bài Tập Lớn\Bài Tập Lớn\QLThuHocPhiSVnhom11\QLThuHocPhiSVnhom11\obj\Debug\QLThuHocPhiSVnhom11.LopMonHoc.resources
